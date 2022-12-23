@@ -1,2 +1,2 @@
-#sync with salla
-## task for valinteca.com company
+### sync with salla
+## task for valinteca company
